@@ -4,7 +4,7 @@ DDI session - 18 November 2024
 
 Click the "launch binder" button below to launch the interactive notebook.
 
-[BINDER LINK]
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chdesvages/ddi-intro-python-nov24/HEAD?labpath=presentation.ipynb)
 
 ## Learn more...
 
